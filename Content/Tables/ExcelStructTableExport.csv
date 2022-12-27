@@ -1,0 +1,2 @@
+---,ActorName,LocationZ,RotationZ,Scale,Location,Rotator,TraitInfo,TraitInfos
+NewRow,"TestActor","1.000000","0.000000","0.000000","(X=2.000000,Y=1.000000,Z=2.000000)","(Pitch=1.000000,Yaw=1.000000,Roll=1.000000)","(TagName=""TraitName3"",Values=(1,1,1))","((TagName=""TraitNameA"",Values=(0,1,3)),(TagName=""TraitNameB"",Values=(0,1,2)))"
